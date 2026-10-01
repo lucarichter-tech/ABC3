@@ -1,6 +1,6 @@
 # Reinach citations moved to the 2012 De Gruyter edition
 
-**File changed:** `SA_VALIDORDERS_Version_2.odt`
+**Files changed:** `SA_VALIDORDERS_Version_2.odt` and `SA_VALIDORDERS_Version_2.docx` (the original Word version downloaded from OneDrive). The same 17 footnote changes were made in both files; the footnote numbers and old texts were identical in both.
 
 **Target edition:** Adolf Reinach, *The Apriori Foundations of the Civil Law. Along with the lecture "Concerning Phenomenology"*, ed. and trans. John F. Crosby (Frankfurt/Paris/Lancaster: Ontos / Berlin: De Gruyter, 2012), DOI 10.1515/9783110329803. The page numbers below are the printed page numbers of that edition (PDF page = printed page + 36).
 
